@@ -94,3 +94,6 @@ exclude:
   - webpack.config.js
   - README.md
   - LICENSE
+
+github_client_id: 1d3225bf1648d88f0168
+gatekeeper_host: https://boulder-county-open-data.herokuapp.com
